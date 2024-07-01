@@ -18,6 +18,19 @@
 -  Programmer Analyst at **Cognizant Technology Solutions,India**
 -  Full Stack Developer Intern at **Virtusa Consulting Services, India**
 
+<h2 align="left">Projects</h2>
+<h3 align="left"> Multimodal sentimental Analysis of Internet memes </h3>
+
+
+- Developed a deep learning model using Bi-LSTM and GRU for sentiment analysis of memes, leveraging their multimodal nature (images with textual comments).
+- This project aimed to classify and quantify humor and sentiment, providing insights into cultural and political biases reflected in social media memes.
+<h3 align="left"> Botnet Detection </h3>
+
+
+- Graph based botnet detection is an application used to identify and mitigate botnet activity by analysing network traffic and constructing a graph representation of the communication patterns between different hosts in a network.
+- Experiment results show that using graph features reduces training time and model complexity and provides high bots detection rate. Our proposed detection model detects different types of botnet families and exhibits robustness to zero-day attacks
+
+
 <h2 align="left">Skills</h2>
 <h3 align="center">Programming Languages:</h3>
 <p align="center"> 
