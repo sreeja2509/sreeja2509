@@ -1,22 +1,26 @@
 ![logo](https://github.com/sreeja2509/sreeja2509/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Naga Sreeja Jajam</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="300" src="https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710060.jpg?t=st=1719823719~exp=1719827319~hmac=0398abdede5a3d6c1cd2952d34e4e25222c9c2c5f5527e18d9f8904084965135&w=740">
+ <img align="right" alt="coding" width="200" src="https://img.freepik.com/free-photo/view-3d-woman-using-laptop_23-2150710060.jpg?t=st=1719823719~exp=1719827319~hmac=0398abdede5a3d6c1cd2952d34e4e25222c9c2c5f5527e18d9f8904084965135&w=740">
 
-- 🌱 I’m currently learning **Amazon Web Services**
 
-- 📫 How to reach me **jajamnagasreeja25@gmail.com**
+<h2 align="left">About me</h2>
 
-- 📄 Know about my experiences [https://nagasreeja-resume.tiiny.site](https://nagasreeja-resume.tiiny.site)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nagasreeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagasreeja" height="30" width="40" /></a>
-</p>
+-  I’m currently pursing masters at **University at Buffalo** in Computer sciene with a CGPA of 3.65 out of 4.00
+-  Programmer Analyst at **Cognizant Technology Solutions,India**
+-  Developed a comprehensive skill set in programming languages such as Python, Java, C++, and JavaScript.
+-  I am also proficient in frameworks like Django, Node.js, and Scikit-learn.
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left"> 
+<h2 align="left">Experience</h2>
+
+
+-  Programmer Analyst at **Cognizant Technology Solutions,India**
+-  Full Stack Developer Intern at **Virtusa Consulting Services, India**
+
+<h2 align="left">Skills</h2>
+<h3 align="center">Programming Languages:</h3>
+<p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -31,8 +35,8 @@
   </a> 
 </p>
 
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> 
+<h3 align="center">Web Development:</h3>
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -45,11 +49,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  
-</p>
-
-<h3 align="left">Backend Development:</h3>
-<p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
@@ -59,10 +58,13 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">AI/ML:</h3>
-<p align="left"> 
+<h3 align="center">AI/ML:</h3>
+<p align="center"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
@@ -86,8 +88,8 @@
   </a> 
 </p>
 
-<h3 align="left">Database:</h3>
-<p align="left"> 
+<h3 align="center">Database:</h3>
+<p align="center"> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -102,19 +104,18 @@
   </a> 
 </p>
 
-<h3 align="left">DevOps:</h3>
-<p align="left"> 
+<h3 align="center">Tools & Frameworks:</h3>
+<p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
   
-</p>
-
-<h3 align="left">Framework:</h3>
-<p align="left"> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
@@ -123,24 +124,20 @@
   </a> 
 </p>
 
-<h3 align="left">Testing:</h3>
-<p align="left"> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreeja2509&show_icons=true&locale=en&layout=compact" alt="sreeja2509" /></p>
 
+<h2 align="center">Github Stats</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreeja2509&show_icons=true&locale=en" alt="sreeja2509" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreeja2509&" alt="sreeja2509" /></p>
+
+
+
+
+📄 Know about my experiences [https://nagasreeja-resume.tiiny.site](https://nagasreeja-resume.tiiny.site)
+<br>
+Let's connect on &nbsp;
+<a href="https://linkedin.com/in/nagasreeja" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagasreeja" height="20" width="20" />
+</a>
 
