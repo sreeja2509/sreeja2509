@@ -1,4 +1,4 @@
-![logo](https://github.com/sreeja2509/sreeja2509/blob/main/github-banner.png)
+![logo](https://github.com/sreeja2509/sreeja2509/blob/main/WhatsApp%20Image%202024-05-30%20at%2015.03.39_ced4b937.jpg)
 <h1 align="center">Hi 👋, I'm Naga Sreeja Jajam</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
