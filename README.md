@@ -1,3 +1,4 @@
+![logo](https://github.com/sreeja2509/sreeja2509/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Naga Sreeja Jajam</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
