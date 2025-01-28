@@ -7,10 +7,10 @@
 <h2 align="left">About me</h2>
 
 
--  I’m currently pursing masters at **University at Buffalo** in Computer sciene with a CGPA of 3.65 out of 4.00
--  Programmer Analyst at **Cognizant Technology Solutions,India**
+-  I’m Graduate at **University at Buffalo** in Computer sciene with a CGPA of 3.73 out of 4.00
+
 -  Developed a comprehensive skill set in programming languages such as Python, Java, C++, and JavaScript.
--  I am also proficient in frameworks like Django, Node.js, and Scikit-learn.
+
 
 <h2 align="left">Experience</h2>
 
