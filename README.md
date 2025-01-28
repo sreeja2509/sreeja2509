@@ -147,10 +147,5 @@
 
 
 
-📄 Know about my experiences [https://nagasreeja-resume.tiiny.site](https://nagasreeja-resume.tiiny.site)
-<br>
-Let's connect on &nbsp;
-<a href="https://linkedin.com/in/nagasreeja" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagasreeja" height="20" width="20" />
-</a>
+
 
