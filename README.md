@@ -9,7 +9,7 @@
 
 -  I’m Graduate at **University at Buffalo** in Computer sciene with a CGPA of 3.73 out of 4.00
 
--  Developed a comprehensive skill set in programming languages such as Python, Java, C++, and JavaScript.
+-  Developed a comprehensive skill set in programming languages such as Python, Java, C++, and JavaScript , web development.
 
 
 <h2 align="left">Experience</h2>
