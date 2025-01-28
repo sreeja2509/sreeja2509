@@ -15,8 +15,8 @@
 <h2 align="left">Experience</h2>
 
 
--  Programmer Analyst at **Cognizant Technology Solutions,India**
--  Full Stack Developer Intern at **Virtusa Consulting Services, India**
+-  Software Development Engineer at **Fisglobal, USA**
+-  Software Development Engineer at **Mindtree, India**
 
 <h2 align="left">Projects</h2>
 <h3 align="left"> Multimodal sentimental Analysis of Internet memes </h3>
